@@ -1,5 +1,7 @@
 package com.example.smaertlab.ui.login;
-
+//Данный класс нужен для регистрации в приложении
+//Автор: Попов Дмитрий
+//Сессия номер:2
 import android.app.Activity;
 
 import androidx.lifecycle.Observer;
